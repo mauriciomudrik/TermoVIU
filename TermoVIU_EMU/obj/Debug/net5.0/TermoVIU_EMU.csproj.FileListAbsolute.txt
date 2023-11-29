@@ -1,0 +1,16 @@
+/home/pacman/dotnet/TermoVIU_EMU/bin/Debug/net5.0/TermoVIU_EMU
+/home/pacman/dotnet/TermoVIU_EMU/bin/Debug/net5.0/TermoVIU_EMU.deps.json
+/home/pacman/dotnet/TermoVIU_EMU/bin/Debug/net5.0/TermoVIU_EMU.runtimeconfig.json
+/home/pacman/dotnet/TermoVIU_EMU/bin/Debug/net5.0/TermoVIU_EMU.runtimeconfig.dev.json
+/home/pacman/dotnet/TermoVIU_EMU/bin/Debug/net5.0/TermoVIU_EMU.dll
+/home/pacman/dotnet/TermoVIU_EMU/bin/Debug/net5.0/ref/TermoVIU_EMU.dll
+/home/pacman/dotnet/TermoVIU_EMU/bin/Debug/net5.0/TermoVIU_EMU.pdb
+/home/pacman/dotnet/TermoVIU_EMU/obj/Debug/net5.0/TermoVIU_EMU.csprojAssemblyReference.cache
+/home/pacman/dotnet/TermoVIU_EMU/obj/Debug/net5.0/TermoVIU_EMU.GeneratedMSBuildEditorConfig.editorconfig
+/home/pacman/dotnet/TermoVIU_EMU/obj/Debug/net5.0/TermoVIU_EMU.AssemblyInfoInputs.cache
+/home/pacman/dotnet/TermoVIU_EMU/obj/Debug/net5.0/TermoVIU_EMU.AssemblyInfo.cs
+/home/pacman/dotnet/TermoVIU_EMU/obj/Debug/net5.0/TermoVIU_EMU.csproj.CoreCompileInputs.cache
+/home/pacman/dotnet/TermoVIU_EMU/obj/Debug/net5.0/TermoVIU_EMU.dll
+/home/pacman/dotnet/TermoVIU_EMU/obj/Debug/net5.0/ref/TermoVIU_EMU.dll
+/home/pacman/dotnet/TermoVIU_EMU/obj/Debug/net5.0/TermoVIU_EMU.pdb
+/home/pacman/dotnet/TermoVIU_EMU/obj/Debug/net5.0/TermoVIU_EMU.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TermoVIU_EMU/1.0.0": {
+        "runtime": {
+          "TermoVIU_EMU.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TermoVIU_EMU/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
